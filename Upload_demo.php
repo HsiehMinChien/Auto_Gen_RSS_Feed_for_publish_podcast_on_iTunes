@@ -6,7 +6,7 @@
 		<div id="main">
 			<section class="wrapper style1">
 				<div class="inner">
-                    <form name="reg" action="upload3.php" method="post" enctype="multipart/form-data">
+                    <form name="reg" action="Upload_action_demo.php" method="post" enctype="multipart/form-data">
                     - Title<br>
                     <input type="text" name="title" class="form-control" placeholder="Type Title"><br>
                     - Description<br>
